@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.jd_ai_agent_seven.twa",
+        "sha256_cert_fingerprints": ["C4:99:3F:36:2D:7A:3C:94:7B:9E:C5:20:EA:C8:EA:8E:B6:77:49:EF:2C:22:03:0F:DF:8D:61:2E:5C:09:9B:AB"]
+      }
+    }]
